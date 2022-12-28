@@ -7,3 +7,4 @@
 - `git push origin <branch name>`
 - `git pull origin <branch name>`
 - `git merge <branch name>`
+- `main`
